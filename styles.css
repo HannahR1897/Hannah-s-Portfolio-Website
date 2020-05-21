@@ -1,0 +1,82 @@
+article {
+
+}
+header {
+  background-color: #A9A9A9;
+  text-align: center;
+  padding-bottom: 200px;
+}
+footer {
+  width: 100%;
+  background-color: #A9A9A9;
+}
+.copyright {
+  color: #FFFFFF;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+p {
+  font-family: Helvetica;
+  font-size: 20px;
+  color: #4F4F4F;
+  text-align: center;
+  font-weight: lighter;
+}
+.brief2 {
+  height: 600px;
+  width: 400px;
+  padding-bottom: 80px;
+  align-content: center;
+}
+.he {
+  width: 600px;
+  height: 300px;
+  padding-left: 10px;
+  align-content: center;
+  padding-right: 10px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-area: auto;
+}
+.nav {
+  position: absolute;
+  top: 150px;
+  left: 300px;
+}
+.logo {
+padding-left: 580px;
+position: center;
+height: 300px;
+
+}
+.homepagetext {
+  background-image: url(background.png);
+  color: #4F4F4F;
+  font-weight:lighter;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-bottom: 60px;
+  padding-top: 60px;
+  font-size: 40px;
+  width: 1390px;
+}
+a {
+  float: center;
+  padding-right: 200px;
+  color: #FFFFFF;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  text-decoration: none;
+  padding-bottom: 10px;
+  display: inline;
+}
+h2 {
+  text-align: center;
+  font-size: 50px;
+  font-family: Helvetica;
+  color: #4F4F4F;
+}
